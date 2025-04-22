@@ -15,3 +15,18 @@
 </br>👯 Well exeprenced in Jenkins CI CD
 </br>🔭 Good exposure on Docker
 </br>
+
+---
+    o	Java, Python
+    o	Data driven framework using Java
+    o	Cucumber framework using Java
+    o	Selenium Automation with Java
+    o	TestNG 
+    o	Manual Testing
+    o	Rest API Testing (Postman tool)
+    o	Web services Testing
+    o	DB Testing (MY SQL, Oracle 10g)
+    o	API and DB Automation
+    o	CI CD
+    o	Docker
+---
