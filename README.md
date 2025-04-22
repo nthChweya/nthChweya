@@ -5,9 +5,6 @@
 - **LinkedIn**: [https://www.linkedin.com/in/chweya-charles-3a078192/]
 - **Phone**: +254 759717499
 
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
 ## I'm a Software Test Engineer!! 
 
 </br>🔭 6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
