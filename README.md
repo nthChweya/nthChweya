@@ -1,4 +1,5 @@
 ## Hi there 👋 My Name is Chweya Charles
+   Senior Test Automation Engineer - SDET
 
 <!--
 **nthChweya/nthChweya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
