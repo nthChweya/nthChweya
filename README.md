@@ -1,4 +1,4 @@
-  <h1 align="center>Hi there 👋 My Name is Chweya Charles<h1>
+  <h1 align="center">Hi there 👋 My Name is Chweya Charles<h1>
   <h3 align="center">Senior Test Automation Engineer - SDET</h3>
 
 <!--
