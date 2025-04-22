@@ -7,21 +7,18 @@
 
 ## I'm a Software Test Engineer!! 
 
-</br>🔭 6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
+</br>🔭 5+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
 </br>🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, ATLC.
-</br>👯 Proficient in Selenium Test Automation using Java programming language.
-</br>🥅 Strong experience on Datadriven framework and Cucumber framework automation using Java programming language.
-</br>⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
+</br>👯 Proficient in Selenium Test Automation using Python programming language.
+</br>🥅 Strong experience on Datadriven framework and Cucumber framework automation using Python programming language.
+</br>⚡ Strong experience on POM, Robot Framework and Keyword driven Framework automation using Python programming language.
 </br>👯 Well exeprenced in Jenkins CI CD
 </br>🔭 Good exposure on Docker
 </br>
 
 ---
-    o	Java, Python
-    o	Data driven framework using Java
-    o	Cucumber framework using Java
-    o	Selenium Automation with Java
-    o	TestNG 
+    o	Javascript, Python
+    o	Selenium Automation with Python
     o	Manual Testing
     o	Rest API Testing (Postman tool)
     o	Web services Testing
