@@ -5,7 +5,8 @@
 - **LinkedIn**: [https://www.linkedin.com/in/chweya-charles-3a078192/]
 - **Phone**: +254 759717499
 
-[<img align="left"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ## I'm a Software Test Engineer!! 
 
