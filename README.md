@@ -2,7 +2,7 @@
 <h3 align="center">Senior Test Automation Engineer - SDET</h3>
 
 - **Email**: chweyaacharles@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/sureshayyanna/](https://www.linkedin.com/in/chweya-charles-3a078192/)
+- **LinkedIn**: [https://www.linkedin.com/in/chweya-charles-3a078192/]
 - **Phone**: +254 759717499
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedn]
