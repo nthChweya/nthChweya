@@ -1,5 +1,9 @@
-  <h1 align="center">Hi there 👋 My Name is Chweya Charles<h1>
-  <h3 align="center">Senior Test Automation Engineer - SDET</h3>
+<h1 align="center">Hi there 👋 My Name is Chweya Charles<h1>
+<h3 align="center">Senior Test Automation Engineer - SDET</h3>
+
+- **Email**: chweyaacharles@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/sureshayyanna/](https://www.linkedin.com/in/chweya-charles-3a078192/)
+- **Phone**: +254 759717499
 
 <!--
 **nthChweya/nthChweya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
