@@ -5,8 +5,7 @@
 - **LinkedIn**: [https://www.linkedin.com/in/chweya-charles-3a078192/]
 - **Phone**: +254 759717499
 
-[<img align="left"][(https://pages.github.com/)]
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## I'm a Software Test Engineer!! 
 
