@@ -5,17 +5,13 @@
 - **LinkedIn**: [https://www.linkedin.com/in/sureshayyanna/](https://www.linkedin.com/in/chweya-charles-3a078192/)
 - **Phone**: +254 759717499
 
-<!--
-**nthChweya/nthChweya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Test Engineer!! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>🔭 6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
+</br>🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, ATLC.
+</br>👯 Proficient in Selenium Test Automation using Java programming language.
+</br>🥅 Strong experience on Datadriven framework and Cucumber framework automation using Java programming language.
+</br>⚡ Strong experience on POM, TestNG and Keyword driven Framework automation using Java programming language.
+</br>👯 Well exeprenced in Jenkins CI CD
+</br>🔭 Good exposure on Docker
+</br>
